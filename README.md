@@ -19,5 +19,9 @@ JavaScript (AJAX): Update status instantly.
 
 PHP: Handle database operations for inserting and updating data.
 
-MySQL: Store user records and XAMPP
-ء
+MySQL: Store user records and XAMPP.
+
+
+
+
+
